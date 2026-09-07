@@ -12,7 +12,7 @@ I developed a strong interest in cybersecurity during my degree, and I am curren
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TiagoAlmeida05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=TiagoAlmeida05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TiagoAlmeida05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TiagoAlmeida05&theme=dark&layout=compact&v=1)
 
 ## University Projects
 
