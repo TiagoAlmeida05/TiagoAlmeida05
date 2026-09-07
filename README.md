@@ -32,6 +32,6 @@ I developed a strong interest in cybersecurity during my degree, and I am curren
 | **CPD** | [Concurrent Chat Server with AI Integration](https://github.com/TiagoAlmeida05/A3_S2-Computacao_Paralela_E_Distribuida/tree/main/assign2) | Multi-threaded chat server featuring concurrent client handling and AI chatbot integration. |
 | **IA** | [Self-Driving Rides](https://github.com/TiagoAlmeida05/A3_S2-Inteligencia_Artificial_Projeto_1) | Routing and scheduling optimization algorithm for self-driving vehicle fleets. |
 | **IA** | [Telecom Customer Churn Risk Dashboard](https://github.com/TiagoAlmeida05/A3_S2-Inteligencia_Artificial_Projeto_2) | Machine learning dashboard for predicting and analyzing telecom customer churn. |
-| **PI** | [jUPiter QDA](https://github.com/TiagoAlmeida05/A3_S2-Projeto_Integrador) | Open-source application for qualitative data analysis (QDA). |
+| **PI** | [jUPiter QDA](https://github.com/TiagoAlmeida05/A3_S2-Projeto_Integrador) | Free, open-source application for qualitative data analysis (QDA). |
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
