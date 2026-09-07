@@ -34,6 +34,4 @@ I developed a strong interest in cybersecurity during my degree, and I am curren
 | **IA** | [Telecom Customer Churn Risk Dashboard](https://github.com/TiagoAlmeida05/A3_S2-Inteligencia_Artificial_Projeto_2) | Machine learning dashboard for predicting and analyzing telecom customer churn. |
 | **PI** | [jUPiter QDA](https://github.com/TiagoAlmeida05/A3_S2-Projeto_Integrador) | Open-source application for qualitative data analysis (QDA). |
 ---
-[![](https://komarev.com/ghpvc/?username=TiagoAlmeida05&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
